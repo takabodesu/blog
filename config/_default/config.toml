@@ -3,7 +3,7 @@ baseurl = "https://takabodesu.github.io/blog/"
 languageCode = "ja"
 paginate = 5
 title = "たかぼーぶろぐ"
-sidebar:
+sidebar
   emoji:🤖
   subtitle:学生が運営するガジェット専門ブログ
 
