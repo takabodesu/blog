@@ -1,5 +1,6 @@
 ---
 title : ほしななちゃんねるとは！？
+img : content/post/ほしなな/channels4_profile.jpg
 ---
 ども！こんにちは！今回はほしななちゃんねるについて解説します！
 ![ほしなな](channels4_profile.jpg)
